@@ -1,0 +1,11 @@
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\bin\Debug\FunnyNotepad.exe.config
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\bin\Debug\FunnyNotepad.exe
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\bin\Debug\FunnyNotepad.pdb
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\obj\Debug\FunnyNotepad.csprojResolveAssemblyReference.cache
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\obj\Debug\FunnyNotepad.Form1.resources
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\obj\Debug\FunnyNotepad.Properties.Resources.resources
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\obj\Debug\FunnyNotepad.csproj.GenerateResource.Cache
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\obj\Debug\FunnyNotepad.exe
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\obj\Debug\FunnyNotepad.pdb
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\bin\Debug\FunnyNotepad.exe.CodeAnalysisLog.xml
+E:\SanTechSolutions\Tech Solutions\My Projects\FunnyNotepad\FunnyNotepad\bin\Debug\FunnyNotepad.exe.lastcodeanalysissucceeded
